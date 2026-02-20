@@ -69,7 +69,6 @@ A **Power BI template file (`.pbit`)** is provided instead, which includes:
 2. Open it in **Power BI Desktop**  
 3. Connect to a compatible dataset or sample data when prompted  
 
-This approach allows reviewers to fully explore the report structure and analytical logic without exposing underlying data.
 
 ---
 
